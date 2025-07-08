@@ -1,7 +1,7 @@
 # Deep fake detection Django Application
 
 #### Step 1 : Clone the repo and Navigate to Django Application
-`gh repo clone prajwalchaudhari60/Using-AI-ML-Based-Face-Swap-Deepfack-Video-Detection.`
+`git clone https://github.com/prajwalchaudhari60/Using-AI-ML-Based-Face-Swap-Deepfack-Video-Detection..git`
 #### Step 2: Create virtualenv (optional)
 
 `python -m venv venv`
