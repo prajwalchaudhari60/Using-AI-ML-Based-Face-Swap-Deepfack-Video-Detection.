@@ -1,0 +1,1 @@
+web: gunicorn deepfake_video_detection_project.wsgi
